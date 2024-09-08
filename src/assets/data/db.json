@@ -1,0 +1,14 @@
+{
+  "users": [
+    {
+      "email": "francisco@yop.com",
+      "password": "$2a$10$eNwPc4z2f73.NYgWyLW0Jer1HC94vNHHXo81wjLFwi74FLVEx2zlW",
+      "id": 1
+    },
+    {
+      "email": "francisco2@yop.com",
+      "password": "$2a$10$2coYFrZb9temTMkrqbjzHOPuJrfUzUBi1IMon0YB5PGhi/e.sfrNO",
+      "id": 2
+    }
+  ]
+}
